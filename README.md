@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # PTMT: Parallel Tree Motif Transition Discovery
 
 ## Overview
