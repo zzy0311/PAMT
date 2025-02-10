@@ -25,7 +25,7 @@
 #include <random>
 #include <chrono>
 #include <sys/stat.h>
-#include <omp.h>  // 添加OpenMP头文件
+#include <omp.h> 
 
 using namespace std;
 
