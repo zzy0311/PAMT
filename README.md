@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains the implementation of our Parallel Tree Motif Transition Discovery (PTMT) algorithm for temporal graphs. The algorithm employs a Temporal Zone Partitioning (TZP) strategy to divide the temporal graph into multiple independent partitions (growth zones). In each partition, the motif transitions are counted exactly while enabling high parallelism. Finally, the motifs are encoded using a deterministic relabeling scheme. This approach significantly improves efficiency and scalability without sacrificing accuracy.
+This repository contains the implementation of our Parallel Motif Transition Discovery (PAMT) algorithm for temporal graphs. The algorithm employs a Temporal Zone Partitioning (TZP) strategy to divide the temporal graph into multiple independent partitions (growth zones). In each partition, the motif transitions are counted exactly while enabling high parallelism. Finally, the motifs are encoded using a deterministic relabeling scheme. This approach significantly improves efficiency and scalability without sacrificing accuracy.
 
 ## Directory Structure
 
