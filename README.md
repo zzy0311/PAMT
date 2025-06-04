@@ -32,7 +32,7 @@ This command will generate the executable `PTMT`.
 
 Run the executable using the following command:
 ```bash
-./PTMT input.txt Max_edge Max_memory consecutive omega
+./PAMT input.txt Max_edge Max_memory consecutive omega
 ```
 Where:
 - **`input.txt`** is the input file containing the temporal edges.
@@ -43,7 +43,7 @@ Where:
 
 For example:
 ```bash
-./PTMT dataset.txt 3 600 YES 20
+./PAMT dataset.txt 3 600 YES 20
 ```
 
 ## Requirements
