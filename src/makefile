@@ -23,7 +23,7 @@ endif
 CXXFLAGS = -std=c++14 -fopenmp
 
 ptmt: main.o partition.o ptmt.o 
-	g++ $(CXXFLAGS) main.o partition.o ptmt.o -o PTMT
+	g++ $(CXXFLAGS) main.o partition.o ptmt.o -o PAMT
 
 main.o: main.cpp
 	g++ $(CXXFLAGS) -c main.cpp
