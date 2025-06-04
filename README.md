@@ -1,7 +1,7 @@
 
 
 
-# PAMT: Parallel Tree Motif Transition Discovery
+# PAMT: Parallel Motif Transition Discovery
 
 ## Overview
 
